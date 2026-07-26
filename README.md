@@ -1,9 +1,9 @@
-# PrestaMax 💚
+# Leolyt 💚
 
 PWA completa para gestión de préstamos con estilo **Material You 3 Expressive**.
 
 ## 🔗 Enlace
-**https://github.com/Justin20083/prestamax**
+**https://github.com/Justin20083/leolyt**
 
 ## ✨ Características
 
@@ -18,7 +18,7 @@ PWA completa para gestión de préstamos con estilo **Material You 3 Expressive*
 - **Ajustes** con perfil, moneda, tasa de interés
 
 ### 🎨 Material You 3 Expressive
-- Superficies tonales verde (`#044D00`)
+- Superficies tonales verde (`#C62828`)
 - Esquinas ultra-redondeadas (28px cards, pills)
 - Spring curves con overshoot
 - Animaciones de scroll reveal
@@ -50,7 +50,7 @@ PWA completa para gestión de préstamos con estilo **Material You 3 Expressive*
 ## 📁 Estructura
 
 ```
-prestamax/
+leolyt/
 ├── index.html        ← App completa (single-file)
 ├── manifest.json     ← PWA manifest
 ├── sw.js             ← Service Worker
@@ -62,7 +62,7 @@ prestamax/
 
 El color primary se puede cambiando la variable CSS:
 ```css
---p:#044D00;  /* Cambia este valor */
+--p:#C62828;  /* Cambia este valor */
 ```
 
 ## 📄 Licencia

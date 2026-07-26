@@ -1,11 +1,11 @@
 {
-    "name": "PrestaMax - Gestor de Préstamos",
-    "short_name": "PrestaMax",
+    "name": "Leolyt - Gestor de Préstamos",
+    "short_name": "Leolyt",
     "description": "Gestiona tus préstamos, clientes y pagos de forma inteligente",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#044D00",
+    "theme_color": "#C62828",
     "orientation": "portrait",
     "categories": ["finance", "business"],
     "icons": [
